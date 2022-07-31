@@ -11,4 +11,7 @@ how to run:
 - on terminal set the directory where the project is saved and write python3 run.py or
 - open the vscode or another text editon and clicks run button on file run.py
 
+in case you cannot run the project, I attached the video when I run the script on the link bellow
+https://drive.google.com/file/d/1gN1-LgzZN2JwfZtNIv3SVkfHdu_lWMjI/view?usp=sharing
+
 
