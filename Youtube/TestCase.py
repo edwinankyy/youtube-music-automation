@@ -85,7 +85,7 @@ class TestCase(webdriver.Chrome):
 
             search_text_input = self.find_element(By.XPATH, cons.search_text_input)
             search_text_input.send_keys(cons.search_query)
-            search_text_input.send_keys(Keys.RETURN)
+             
             time.sleep(5)
 
             container_searched_button = self.find_element(By.XPATH, cons.container_searched_button)
